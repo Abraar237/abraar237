@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Gen AI related projects**
 
-- 👨‍💻 All of my projects are available at [www.abraar237.vercel.app](www.abraar237.vercel.app)
+- 👨‍💻 All of my projects are available at [www.abraar3.vercel.app](www.abraar237.vercel.app)
 
 - 💬 Ask me about **ML, DL, NLP, LLM**
 
